@@ -1,4 +1,4 @@
-# newsletter 2
+# newsletter
 
 
 This is a newsletter website. I've developed this site by html and css only.
